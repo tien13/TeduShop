@@ -1,0 +1,4 @@
+C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.pdb

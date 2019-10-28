@@ -1,0 +1,12 @@
+C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.dll.config
+C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.dll
+C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.pdb
+C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.dll
+C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Common.dll
+C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Common.pdb
+C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.xml
+C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csprojResolveAssemblyReference.cache
+C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.dll
+C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.pdb
