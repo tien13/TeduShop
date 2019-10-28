@@ -62,7 +62,7 @@
       <Name>TeduShop.Data</Name>
     </ProjectReference>
     <ProjectReference Include="..\TeduShop.Model\TeduShop.Model.csproj">
-      <Project>{e592b78e-1c2b-4edf-8916-d37bd8846071}</Project>
+      <Project>{c25fe7b6-2cf3-4df6-be29-9d548549866c}</Project>
       <Name>TeduShop.Model</Name>
     </ProjectReference>
     <ProjectReference Include="..\TeduShop.Service\TeduShop.Service.csproj">
