@@ -1,9 +1,13 @@
-C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.csprojResolveAssemblyReference.cache
 C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Service.dll
 C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Service.pdb
 C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Common.dll
 C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Data.dll
+C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Service\bin\Debug\EntityFramework.dll
+C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Model.dll
 C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Common.pdb
 C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Data.pdb
+C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Service\bin\Debug\EntityFramework.xml
+C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Model.pdb
+C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.csprojResolveAssemblyReference.cache
 C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.dll
 C:\Users\MinhTien\Documents\GitHub\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.pdb
